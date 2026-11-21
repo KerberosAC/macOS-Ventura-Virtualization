@@ -5,9 +5,6 @@
 [![Virtualization](https://img.shields.io/badge/Focus-Virtualization%20%26%20OS%20Administration-137C8B)](#skills-demonstrated)
 [![Lab](https://img.shields.io/badge/Environment-Training%20Lab-2E7D32)](#lab-environment)
 
-**Maintained by:** Alexander Cox  
-**Project context:** Advanced Operating Systems coursework — Caribbean Maritime University (November 2024)  
-**Source:** `macOS Group 1(1).docx` (original lab report)  
 **Scope:** VM creation, installation-media attachment, VirtualBox configuration, macOS recovery, disk formatting, installer workflow, and startup troubleshooting.
 
 > **Attribution:** The source report credits Alexander Cox, Davain Forrester, and Javaun Lee-Delvalie. The source does not itemize individual contributions; this repository documents the submitted lab workflow without claiming each step was performed by one person alone.
@@ -259,10 +256,6 @@ The original report documents these issues and responses. They are presented as 
 The project strengthened familiarity with **VM provisioning, virtual storage, guest firmware configurations, command-line hypervisor management, and operating-system installation**. It also highlighted the need to record detailed system requirements and validate boot, networking, peripheral support, and performance separately rather than assuming successful installation guarantees full compatibility.
 
 **Future validation steps** (not claimed as completed in the report): capture guest network configuration, check software/update status, test reboot persistence, record CPU and RAM assignments, and document repeatable snapshots on a supported configuration.
-
-## Source and Project Context
-
-This README is based on **`macOS Group 1(1).docx`**, an Advanced Operating Systems lab submitted November 25, 2024 at Caribbean Maritime University. The repository screenshots were extracted directly from the embedded document media and arranged to match the actual steps. The original report credits Alexander Cox, Davain Forrester, and Javaun Lee-Delvalie.
 
 For a full screenshot-to-source mapping, see [SCREENSHOT-GUIDE.md](SCREENSHOT-GUIDE.md).
 
